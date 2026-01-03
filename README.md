@@ -81,7 +81,7 @@
   Heart disease is one of the leading causes of death worldwide, making early prediction and prevention extremely important. This project focuses on building a heart disease prediction system using machine learning techniques to analyze healthcare data and identify individuals at risk. The project involved designing and developing a basic functional module using the core concepts taught in the course. It focused on understanding project requirements, writing structured and efficient code, and implementing key features such as data preprocessing, feature engineering, and model training. The system demonstrates how fundamental data science and machine learning concepts can be applied to solve real-world healthcare problems.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/SAPNA-CHAUHAN-g7-ds/blob/0a2c840413e064056d397fa043b049d01e1240c3/Course%20report/SURE%20Trust%20project%20document%20(1).docx" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sapnachauhan2001/heart-disease-prediction/blob/main/SURE%20Trust%20project%20document%20(1).docx" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
