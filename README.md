@@ -129,7 +129,7 @@ Enhanced communication, coordination, teamwork, and social responsibility throug
 
 <div align="center">
 
-<img src="https://github.com/sapnachauhan2001/heart-disease-prediction/blob/main/community_service_02.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/sapnachauhan2001/heart-disease-prediction/blob/main/comuunity_service_01.jpeg" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/sapnachauhan2001/heart-disease-prediction/blob/main/community_service_02.jpeg" alt="Community Service Photo 1" width="30%">
 </div>
 
