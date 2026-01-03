@@ -128,8 +128,9 @@ Enhanced communication, coordination, teamwork, and social responsibility throug
 
 
 <div align="center">
-<img src="[https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg](https://www.linkedin.com/feed/update/urn:li:activity:7412918431408185345?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESypwQBNTlqr33JwUPKarqLy_gumkOzW34)" alt="Community Service Photo 1" width="30%">
 
+<img src="https://github.com/sapnachauhan2001/heart-disease-prediction/blob/main/community_service_02.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/sapnachauhan2001/heart-disease-prediction/blob/main/community_service_02.jpeg" alt="Community Service Photo 1" width="30%">
 </div>
 
 ---
